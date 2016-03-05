@@ -1,0 +1,28 @@
+name: Odile
+favicon: null
+layout_spectrum: 0.3107955518644303
+typography_spectrum: 0.19768919399939477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24966891598887742
+  lightness: 0.17100462154485285
+  saturation: 0.5697161108255386
+  rhythmicContrast: 0.21503631584346294
+purpose: []
