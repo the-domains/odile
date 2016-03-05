@@ -1,28 +1,40 @@
-name: Odile
 favicon: null
-layout_spectrum: 0.3107955518644303
-typography_spectrum: 0.19768919399939477
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Odile
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5697161108255386
+  brandStrength: 0.2496689159888774
+  rhythmicContrast: 0.2150363158434629
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.24966891598887742
-  lightness: 0.17100462154485285
-  saturation: 0.5697161108255386
-  rhythmicContrast: 0.21503631584346294
-purpose: []
+  lightness: 0.1710046215448529
+typography_spectrum: 0.1976891939993948
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9829787
+analytics:
+  twitter: null
+  google: null
+  facebook: null
